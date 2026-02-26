@@ -34,28 +34,24 @@
     <h2 align="center">🛠 Technical Stack (AI Focused)</h2>
 
     <h3>Programming</h3>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="80">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="80">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="80">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="80">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="80">
 
     <h3>AI / Deep Learning</h3>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" width="80">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="80">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="80">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="80">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="80">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="80">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="80">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="80">
 
     <h3>LLM & GenAI Ecosystem</h3>
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" width="80">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/huggingface.svg" width="80">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" width="80">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" width="80">
 
     <h3>Deployment & Dev Tools</h3>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="80">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="80">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="80">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="80">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="80">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="80">
 </div>
-
-<hr>
 
 <div align="center">
     <h2>🔥 AI Projects</h2>
