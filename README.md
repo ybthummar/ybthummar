@@ -104,14 +104,10 @@
 </div>
 
 <hr>
-
-<footer align="center">
-    <p>
-        <img src="https://github-readme-stats.vercel.app/api?username=ybthummar&include_all_commits=true&show_icons=true&theme=radical" height="250">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ybthummar&layout=compact&theme=radical" height="250">
-    </p>
-</footer>
-
+<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ybthummar&theme=radical"/>
+</p>
 ---
 
 ⭐ Focused on building next-generation AI systems.
