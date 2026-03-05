@@ -4,10 +4,9 @@
     <h1 align="left">Hi, I'm Yug Thummar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
     <h3 align="left">
         <ul>
-            <li>🎓 B.Tech AI & ML Student | CSPIT, CHARUSAT University (GPA: 9.18)</li>
+            <li>🎓 B.Tech AI & ML Student | CSPIT, CHARUSAT University</li>
             <li>🤖 Specializing in Machine Learning, Deep Learning & Generative AI</li>
             <li>🚀 Building intelligent systems using LLMs, Transformers & RAG</li>
-            <li>💼 AI/ML Intern at Elevate Labs (Built 8 end-to-end ML systems)</li>
             <li>🧠 Strong foundation in ML algorithms, Deep Learning & GenAI architectures</li>
             <li>📫 Reach me at: yugthummar001@gmail.com</li>
         </ul>
