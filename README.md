@@ -1,14 +1,14 @@
 <img id='gif' align="right" src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif" width="240">
 
 <header align="left">
-    <h1 align="left">Hi, I'm Yug Thummar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+    <h1 align="left">Hi, I'm Yug Thummar</h1>
     <h3 align="left">
         <ul>
-            <li>🎓 B.Tech AI & ML Student | CSPIT, CHARUSAT University</li>
-            <li>🤖 Specializing in Machine Learning, Deep Learning & Generative AI</li>
-            <li>🚀 Building intelligent systems using LLMs, Transformers & RAG</li>
-            <li>🧠 Strong foundation in ML algorithms, Deep Learning & GenAI architectures</li>
-            <li>📫 Reach me at: yugthummar001@gmail.com</li>
+            <li>B.Tech AI & ML Student | CSPIT, CHARUSAT University</li>
+            <li>Specializing in Machine Learning, Deep Learning, and Generative AI</li>
+            <li>Building intelligent systems using LLMs, Transformers, and RAG</li>
+            <li>Strong foundation in ML algorithms, Deep Learning, and GenAI architectures</li>
+            <li>Contact: yugthummar001@gmail.com</li>
         </ul>
     </h3>
 </header>
@@ -16,20 +16,22 @@
 <hr>
 
 <div align="center">
-    <h2 align="center">🚀 AI Expertise</h2>
+    <h2>AI Expertise</h2>
     <p>
-        🔹 Machine Learning & Model Optimization <br>
-        🔹 Deep Learning (CNNs, Transformers) <br>
-        🔹 Natural Language Processing (NLP) <br>
-        🔹 Large Language Models (LLMs) & Fine-tuning <br>
-        🔹 Retrieval-Augmented Generation (RAG) Systems <br>
-        🔹 Generative AI Applications
+        Machine Learning and Model Optimization <br>
+        Deep Learning (CNNs, Transformers) <br>
+        Natural Language Processing (NLP) <br>
+        Large Language Models (LLMs) and Fine-tuning <br>
+        Retrieval-Augmented Generation (RAG) <br>
+        LangChain and LLM Orchestration <br>
+        Small Language Models (SLMs) <br>
+        Generative AI Applications
     </p>
 </div>
 
 <hr>
 
-<h2 align="center">🛠 Technical Stack (AI Focused)</h2>
+<h2 align="center">Technical Stack (AI Focused)</h2>
 
 <h3 align="center">Programming</h3>
 <p align="center">
@@ -51,62 +53,63 @@
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/huggingface.svg" width="60"/>
 </p>
 
-<h3 align="center">Dev Tools</h3>
+<h3 align="center">Development Tools</h3>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="60"/>
 </p>
 
 <div align="center">
-    <h2>🔥 AI Projects</h2>
+    <h2>AI Projects</h2>
 </div>
 
 <ul>
     <li>
         <b>CaseCut - Legal Document Summarizer</b><br>
-        🔹 Extractive (SBERT) + Abstractive (T5, LED, Pegasus) Summarization<br>
-        🔹 Multimodal Legal Chatbot with contextual memory & PDF Q&A<br>
-        🔹 AI system designed for Indian legal intelligence
+        Extractive (SBERT) and Abstractive (T5, LED, Pegasus) summarization<br>
+        Multimodal legal chatbot with contextual memory and PDF-based Q&A<br>
+        AI system focused on Indian legal intelligence
     </li>
     <br>
     <li>
         <b>EraAI - AI Career Assistant</b><br>
-        🔹 LLM-powered career recommendations<br>
-        🔹 Resume & cover letter generation using GenAI<br>
-        🔹 Skill-gap analysis & AI mock interviews
+        LLM-based career recommendations<br>
+        Resume and cover letter generation using Generative AI<br>
+        Skill gap analysis and AI-driven mock interviews
     </li>
     <br>
     <li>
         <b>DeepFake Detection System</b><br>
-        🔹 CNN + ResNeXt architecture<br>
-        🔹 Spatial-temporal deep feature modeling<br>
-        🔹 High-precision manipulated media detection
+        CNN and ResNeXt-based architecture<br>
+        Spatial-temporal deep feature modeling<br>
+        High-precision manipulated media detection
     </li>
     <br>
     <li>
         <b>AI Enabled Smart Bin (SSIP Approved)</b><br>
-        🔹 Edge AI sound-based waste classification<br>
-        🔹 Real-time sustainable automation system
+        Edge AI for sound-based waste classification<br>
+        Real-time automation for sustainable systems
     </li>
 </ul>
 
 <hr>
 
 <div align="center">
-    <h2>🏆 Leadership & Impact</h2>
+    <h2>Leadership and Impact</h2>
     <p>
-        🎓 University Student Council Member (2025-26)<br>
-        🤖 Club Coordinator – AI FOR ALL Club<br>
-        📌 Organized AI workshops & technical innovation events
+        University Student Council Member (2025–26)<br>
+        Club Coordinator – AI FOR ALL Club<br>
+        Organized AI workshops and technical innovation events
     </p>
 </div>
 
 <hr>
-<h2 align="center">📊 GitHub Stats</h2>
+
+<h2 align="center">GitHub Statistics</h2>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ybthummar&theme=radical"/>
 </p>
+
 ---
 
-⭐ Focused on building next-generation AI systems.
+Focused on building next-generation AI systems.
